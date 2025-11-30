@@ -160,6 +160,10 @@
 @layer utilities;
 
 
+html {
+    background-color: darkred;
+}
+
 .content {
   padding-top: 10em;
   text-align: center;
@@ -176,8 +180,8 @@
 .details img {
   margin: auto;
   padding: 6em 0 2em 0;
-  min-width: 50%;
-  max-width: 75%;
+  min-width: 25%;
+  max-width: 50%;
   height: auto;
 }
 
@@ -202,7 +206,7 @@
 }
 
 img {
-
+    size
 }
 
 #home {
